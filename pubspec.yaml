@@ -1,0 +1,68 @@
+name: ebooktion
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+  flutter_svg: ^0.22.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/main1.png
+    - assets/logo.svg
+    - assets/book.png
+    - assets/music.png
+
+    - assets/book/1퍼센트부자의법칙.jpg
+    - assets/book/harrypotter.jpg
+    - assets/book/기억.jpg
+    - assets/book/내일은내일의해가뜨겠지만오늘밤은어떡하나요.jpg
+    - assets/book/달러구트꿈백화점.jpg
+    - assets/book/마음의다이어리.jpg
+    - assets/book/모든순간이너였다.jpg
+    - assets/book/미움받을용기.jpg
+    - assets/book/보라색치마를입은여자.jpg
+    - assets/book/사람은무엇으로성장하는가.jpg
+    - assets/book/사람을좋아하는헤드헌터.jpg
+    - assets/book/세이노의가르침.jpg
+    - assets/book/아몬드.jpg
+    - assets/book/인간실격.jpg
+    - assets/book/일류의조건.jpg
+    - assets/book/종의기원.jpg
+    - assets/book/책먹는여우.jpg
+    - assets/book/혼자서본영화.jpg
+
+    - assets/music/2002.jpg
+    - assets/music/hypeboy.jpg
+    - assets/music/lovedive.jpg
+    - assets/music/lovepoem.jpg
+    - assets/music/numblittlebug.jpg
+    - assets/music/pop.jpg
+    - assets/music/readytolove.jpg
+    - assets/music/sugar.jpg
+    - assets/music/supernova.jpg
+    - assets/music/tomboy.jpg
+    - assets/music/너의의미.jpg
+    - assets/music/마그네틱.jpg
+    - assets/music/바람개비.jpg
+    - assets/music/여섯번째여름.jpg
+    - assets/music/음악의신.jpg
+    - assets/music/청춘찬가.jpg
+    - assets/music/파이팅해야지.jpg
+    - assets/music/해야.jpg
